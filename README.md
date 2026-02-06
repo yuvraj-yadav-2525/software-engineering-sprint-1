@@ -6,7 +6,7 @@ Welcome to our Software Engineering Sprint 1 group project at the  **University 
 This project focuses on **Circular Fashion**, with an emphasis on **Re-Make and Mend** as sustainable practices to reduce textile waste and extend the lifecycle of clothing. <br><br>
 
 Throughout this sprint, we apply core software engineering principles such as teamwork, version control using GitHub, and agile development  
-while addressing real-world sustainability challenges in the fashion industry. <br><br>
+while addressing real-world sustainability challenges in the fashion industry. <br><br><br>
 
 ---
 ### 👥 Group Members <br>
