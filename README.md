@@ -31,4 +31,4 @@ while addressing real-world sustainability challenges in the fashion industry. <
    - http://localhost:3000
    - http://localhost:8080 (phpMyAdmin)
 <br>
-<br>Purnawashi Mallah<br>
+
